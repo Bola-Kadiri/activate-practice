@@ -1,0 +1,47 @@
+.home-container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-section-one{
+    margin-left: 50px;
+}
+.left-section-one img{
+    width: 550px;
+    height: 400px;
+    
+}
+
+section{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+section .right-section-one{
+    width: 45%;
+    margin-right: 50px;
+}
+
+.right-section-one h1{
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+
+.right-section-one p{
+    font-size: 20px;
+ 
+}
+
+.section-two{
+    width: 100%;
+    min-height: 100vh;
+    background-color: green;
+
+}
