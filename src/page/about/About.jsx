@@ -15,6 +15,7 @@ const About = ({last_name, age}) => {
          <DataGridDemo/> 
        </div>
        <p className="yellow">Hello</p>
+       <h2>This is updated</h2>
     
     </div>
   )
